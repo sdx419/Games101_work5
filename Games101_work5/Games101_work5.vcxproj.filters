@@ -15,8 +15,40 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Games101_work5.cpp">
+    <ClCompile Include="Scripts\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Scripts\Renderer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Scripts\Scene.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Scripts\global.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\Light.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\Object.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\Renderer.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\Scene.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\Sphere.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\Triangle.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Scripts\Vector.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
